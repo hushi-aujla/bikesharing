@@ -11,3 +11,19 @@ Based on this graph we can see the the vast majority of users have a trip durati
 ----
 ![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/checkout%20times%20by%20gender.png "checkout time by Gender")
 This graph shows that by gender type, all riders still typically have a tripduration of under 20 minutes. This graph also shows that there are much higher number of male riders vs female or unknown gender.
+
+----
+![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/gender%20breakdown.png "Gender Breakdown")
+This pie chart also reflects that males are the most common users of CitiBike.
+
+----
+![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/top%20starting%20location.png "Top Starting Location")
+This map shows number of rides based off location. As we can see the most amount of trips occur in the lower part of Manhattan. This area contains a lot of tourists attractions so it is no surprise this area generates more use from CitiBike.
+
+----
+![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/trips%20by%20Gender.png "Gender and weekday heatmap")
+This heatmap shows that the peak hours of rider use are between 6-9am and about 4-8pm, likely the riders are people coming and going to work. This graph also shows that there is less use on weekends compared to regular weekdays. this graph also again that there are usually more male riders.
+
+----
+![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/trips%20by%20weekday%20per%20Hour.png "Weekday heatmap")
+This map again shows the peak hours are from 6-9am and 4-8pm, and again that there is less use during the weekends.
