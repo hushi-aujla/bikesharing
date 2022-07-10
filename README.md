@@ -7,6 +7,7 @@ The purpose of this project were to analyze bikesharing data from CitiBike in Ne
 We will use New York city's citibike data to predict the usefulness of citi bikes in Des Moines, Iowa.
 ![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/checkout%20times%20for%20users.png "Checkout time for users")
 Based on this graph we can see the the vast majority of users have a trip duration of under 20 minutes.
+
 ----
 ![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/checkout%20times%20by%20gender.png "checkout time by Gender")
 This graph shows that by gender type, all riders still typically have a tripduration of under 20 minutes. This graph also shows that there are much higher number of male riders vs female or unknown gender.
