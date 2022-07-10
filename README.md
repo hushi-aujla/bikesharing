@@ -26,4 +26,14 @@ This heatmap shows that the peak hours of rider use are between 6-9am and about 
 
 ----
 ![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/trips%20by%20weekday%20per%20Hour.png "Weekday heatmap")
+
 This map again shows the peak hours are from 6-9am and 4-8pm, and again that there is less use during the weekends.
+
+----
+![picture alt](https://github.com/hushi-aujla/bikesharing/blob/main/images/user%20trips%20by%20Gender.png "Gender and usertype heatmap"
+This heatmap again shows that males are higher users of CitiBike. This map also shows that there are more users that are subscribers as oposed to normal customers, and this is true for all genders
+
+## Summary
+Based on this analysis we can tell our investors that the bikesharing service will be more commoly used in areas of heavy traffic and tourism. We can also assume that the majority of riders will be male, and most trips will last under 20 minutes. We can also assume that . We also can expect there will be more use during hours people are getting and leaving to work, and that there will be less use during the weekends. Two additional visualizations that could help us with our analysis could be:
+* average trip duration by birthyear and gender, to predict if there is any differences in male and female trip durations as they age.
+* if we could collect data from another month like decemeber to see if weather effects the number of rides.
